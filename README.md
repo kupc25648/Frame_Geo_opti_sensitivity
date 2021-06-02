@@ -16,3 +16,6 @@ After the optimization process, the master.py will create 2 outputs
   1.2 Node
   1.3 Element
 2. A matplotlib render of the structural data
+<br>
+<img src="src/Sensitivity Optimization Solution.png">
+<br/>
