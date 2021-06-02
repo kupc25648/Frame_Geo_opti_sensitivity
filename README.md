@@ -12,9 +12,9 @@ master.py : Main file
 
 After the optimization process, the master.py will create 2 outputs
 1. A test file contain structural data of 
-  1.1 Nodal Load
-  1.2 Node
-  1.3 Element
+1.1 Nodal Load
+1.2 Node
+1.3 Element
 2. A matplotlib render of the structural data
 <br>
 <img src="Sensitivity_Optimization_Solution.png">
